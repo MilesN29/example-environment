@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: example-application
-        image: docker.io/milesn29/example-application:v5.0.0
+        image: docker.io/milesn29/example-application:v6.0.0
         ports:
         - containerPort: 8080
         resources:
